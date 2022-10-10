@@ -1,3 +1,3 @@
 # hacktoberfest-22
 
-gn
+gnd
