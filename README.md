@@ -1,4 +1,3 @@
 # hacktoberfest-22
 
-make edits here 
-same 
+make edits here rwerf
