@@ -1,6 +1,4 @@
 # hacktoberfest-22
 
 make edits here
-
-
-heojeirojreye
+e3r3r3r33r
